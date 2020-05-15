@@ -9,15 +9,15 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: William Agar
-    tagline: Computer Science Student   University of Pretoria
+    name: Amber Grill
+    tagline: Bsc IT student   University of Pretoria
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: wda1999@gmail.com
-    phone: 076 655 0533
-    linkedin: william-agar-1b57521a7
-    github: Will-A897
+    email: ambzgrill@gmail.com
+    phone: 082 416 1509
+    linkedin: amber-grill-49259a1a6/
+    github: u18164022
 
 
     languages:
@@ -25,25 +25,25 @@ sidebar:
         level: Native
 
     interests:
-      - item: Video Games / Reading
+      - item: Gym
 
-      - item: Gyming / Cooking
+      - item: Baking
+      
+      - item: Singing/Music
+      
+      - item: Animals
       
 education:
-    - degree: BSc in Computer Science
+    - degree: BSc in IT with IT and enterprises
       university: University of Pretoria
       time: 2018 - Present
       details: |
-        I am an ambitious student who initially had very little knowledge on the subject of programming, development 
-        and Computer Science but who took to it very quickly. Since I have started my degree, I have learnt how to use many
-        languages efficiently and also have an understanding of the logic and underlying systems allowing me to
-        come up with my own ideas and work. So far I have seen great success at university and strive to continue this progress 
-        so that I do not limit my options in the future.
+               I am a student at UP, currently in 3rd year, and excited to get into the working world after I graduate.
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python 
+      - name: PHP
 
       - name: Javascript 
 
@@ -55,7 +55,7 @@ skills:
 
       - name: Java
       
-      - name: WebGL
+      - name: Adobe XD
       
       - name: LAMP Stack (Linux, Apache, MySQL, PHP)
       
@@ -64,4 +64,4 @@ skills:
       - name: NodeJS
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Amber Grill</a>
