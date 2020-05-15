@@ -34,11 +34,34 @@ sidebar:
       - item: Animals
       
 education:
-    - degree: BSc in IT with IT and enterprises
+    - degree: BSc in Information and knowledge systems with electives in IT and enterprises
       university: University of Pretoria
       time: 2018 - Present
       details: |
                I am a student at UP, currently in 3rd year, and excited to get into the working world after I graduate.
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: PHP
+
+      - name: Javascript 
+
+      - name: Assembly
+
+      - name: HTML5, CSS & JSON
+
+      - name: C++
+
+      - name: Java
+      
+      - name: Adobe XD
+      
+      - name: LAMP Stack (Linux, Apache, MySQL, PHP)
+      
+      - name: Android Development
+      
+      - name: NodeJS
 skills:
     title: Skills &amp; Proficiency
 
