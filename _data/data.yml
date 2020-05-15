@@ -26,13 +26,13 @@ sidebar:
 
       - item: Baking
 
-      - item: Singing/Musicc
+      - item: Singing/Music
       
 skills:
     title: Technology Skills &amp; Proficiency
 
     toolset:
-      - name: PHP
+      - name: PHPp
 
       - name: MySQL
 
@@ -50,8 +50,7 @@ skills:
       
       - name: NodeJS
       
-        
-experience:
+skills:
     title: Other skills &amp; Proficiency
 
     toolset:
