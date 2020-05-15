@@ -1,77 +1,67 @@
+
+  
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Amber Grill
-    tagline: Student
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: William Agar
+    tagline: Computer Science Student   University of Pretoria
+    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: u18164022@tuks.co.za
-    phone: 082 416 1509
-    linkedin: Amber Grill
-    github: u18164022
+    email: wda1999@gmail.com
+    phone: 076 655 0533
+    linkedin: william-agar-1b57521a7
+    github: Will-A897
+
 
     languages:
       - idiom: English
         level: Native
 
     interests:
-      - item: Gymm
+      - item: Video Games / Reading
 
-      - item: Baking
-
-      - item: Singing/Music
+      - item: Gyming / Cooking
       
+education:
+    - degree: BSc in Computer Science
+      university: University of Pretoria
+      time: 2018 - Present
+      details: |
+        I am an ambitious student who initially had very little knowledge on the subject of programming, development 
+        and Computer Science but who took to it very quickly. Since I have started my degree, I have learnt how to use many
+        languages efficiently and also have an understanding of the logic and underlying systems allowing me to
+        come up with my own ideas and work. So far I have seen great success at university and strive to continue this progress 
+        so that I do not limit my options in the future.
 skills:
-    title: Technology Skills &amp; Proficiency
+    title: Skills &amp; Proficiency
 
     toolset:
-      - name: PHP
+      - name: Python 
 
-      - name: MySQL
+      - name: Javascript 
 
       - name: Assembly
 
-      - name: HTML5 & CSS
+      - name: HTML5, CSS & JSON
 
-      - name: Adobe XD
+      - name: C++
 
       - name: Java
       
-      - name: C++
+      - name: WebGL
       
-      - name: JavaScript
+      - name: LAMP Stack (Linux, Apache, MySQL, PHP)
+      
+      - name: Android Development
       
       - name: NodeJS
-skills:
-    title: Other skills &amp; Proficiency
-
-    toolset:
-      - name: Social and people
-
-      - name: Organizational
-
-      - name: Leadership
-
-      - name: Reliable
-
-      - name: Responsible
-
-      - name: Communication
- education:
-    - degree: Bsc ITT
-      university: University of Pretoria
-      time: 2018 - 2020
-      details: |
-       I am a student at UP, currently in 3rd year, and excited to get into the working world after I graduate.
-    - High school subjects: English, Afrikaans, Mathamatics, Physics, Accounting, CAT
-      School: St Stithians College
-      time: 2005-2017
 
 footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
