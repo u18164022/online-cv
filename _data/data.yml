@@ -38,8 +38,8 @@ education:
       School: St Stithians College
       time: 2005-2017
 
-Technology skills:
-    title: Skills &amp; Proficiency
+skills:
+    title: Technology Skills &amp; Proficiency
 
     toolset:
       - name: Python & Django
@@ -59,7 +59,7 @@ Technology skills:
 
       - name: Sketch & Photoshop
         level: 60%
-Other skills:
+skills:
     title: Other skills &amp; Proficiency
 
     toolset:
