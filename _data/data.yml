@@ -32,45 +32,40 @@ skills:
     title: Technology Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: PHP
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: MySQL
 
-      - name: Angular
-        level: 98%
+      - name: Assembly
 
       - name: HTML5 & CSS
-        level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Adobe XD
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Java
+      
+      - name: C++
+      
+      - name: JavaScript
+      
+      - name: NodeJS
+      
         
 experience:
     title: Other skills &amp; Proficiency
 
     toolset:
       - name: Social and people
-        level: 98%
 
       - name: Organizational
-        level: 98%
 
       - name: Leadership
-        level: 98%
 
       - name: Reliable
-        level: 95%
 
       - name: Responsible
-        level: 85%
 
       - name: Communication
-        level: 60%
         
 education:
     - degree: Bsc IT
