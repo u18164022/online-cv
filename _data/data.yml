@@ -38,7 +38,7 @@ education:
       School: St Stithians College
       time: 2005-2017
 
-skills:
+Technology skills:
     title: Skills &amp; Proficiency
 
     toolset:
@@ -58,6 +58,27 @@ skills:
         level: 85%
 
       - name: Sketch & Photoshop
+        level: 60%
+Other skills:
+    title: Other skills &amp; Proficiency
+
+    toolset:
+      - name: Social and people
+        level: 98%
+
+      - name: Organizational
+        level: 98%
+
+      - name: Leadership
+        level: 98%
+
+      - name: Reliable
+        level: 95%
+
+      - name: Responsible
+        level: 85%
+
+      - name: Communication
         level: 60%
 
 footer: >
